@@ -1,5 +1,7 @@
 # Karat Mebli
 
+**Live:** https://cheliojul.github.io/Karat-mebli/
+
 Landing page for a furniture manufacturer. Built with React + Vite + Tailwind CSS v4.
 
 ## Stack
